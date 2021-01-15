@@ -1,4 +1,4 @@
-# :seedling: Implementação de API REST MongoDB com Spring Boot
+# :seedling: Implementação de API REST MongoDB com Spring
 
 Projeto onde uma API REST foi implementada em Java com Spring Boot e conexão com banco de dados NoSQL Mongo DB.
 
